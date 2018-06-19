@@ -1,0 +1,1 @@
+Edit path to folder that contain visio file in line 3 of VisioExportPNG.vbs and run VisioExportPNG.vbs
