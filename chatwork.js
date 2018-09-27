@@ -1,6 +1,6 @@
 var request = require('request');
 
-var apiKey = '2b642c7d187eb153e47e7509d7f69356'
+var apiKey = 'API_HERE'
 
 setInterval(function() {
 request({
